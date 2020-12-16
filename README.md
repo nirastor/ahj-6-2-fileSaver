@@ -4,7 +4,7 @@
 ## FileSaver
 
 Сборка:  
-https://nirastor.github.io/ahj-6-2-filesaver/
+https://nirastor.github.io/ahj-6-2-fileSaver/
 
 ## Комментарии
 
